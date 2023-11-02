@@ -20,11 +20,11 @@
 ##
 golem::fill_desc(
   pkg_name = "CDogma", # The Name of the package containing the App
-  pkg_title = "PKG_TITLE", # The Title of the package containing the App
-  pkg_description = "PKG_DESC.", # The Description of the package containing the App
-  author_first_name = "AUTHOR_FIRST", # Your First Name
-  author_last_name = "AUTHOR_LAST", # Your Last Name
-  author_email = "AUTHOR@MAIL.COM", # Your Email
+  pkg_title = "molecbio", # The Title of the package containing the App
+  pkg_description = "Package to replicate the central dogma of molecular biology.", # The Description of the package containing the App
+  author_first_name = "Shah", # Your First Name
+  author_last_name = "Mir", # Your Last Name
+  author_email = "s236400@dtu.dk", # Your Email
   repo_url = NULL, # The URL of the GitHub Repo (optional),
   pkg_version = "0.0.0.9000" # The Version of the package containing the App
 )
